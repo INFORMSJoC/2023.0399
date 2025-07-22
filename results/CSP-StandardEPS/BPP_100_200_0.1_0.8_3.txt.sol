@@ -1,0 +1,290 @@
+N: 100
+W: 200
+L0: 43.68
+L1: 44
+Root_Obj: 44
+L2: 44
+Z: 44
+Status: Optimal
+Root_Time: 0.008731
+Final_Time: 0.008731
+
+Bin 1: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 160
+Size: 40
+
+Bin 2: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 159
+Size: 41
+
+Bin 3: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 157
+Size: 43
+
+Bin 4: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 154
+Size: 46
+
+Bin 5: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 151
+Size: 49
+
+Bin 6: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 150
+Size: 50
+
+Bin 7: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 149
+Size: 26
+Size: 25
+
+Bin 8: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 147
+Size: 53
+
+Bin 9: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 143
+Size: 57
+
+Bin 10: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 141
+Size: 59
+
+Bin 11: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 141
+Size: 59
+
+Bin 12: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 141
+Size: 32
+Size: 27
+
+Bin 13: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 140
+Size: 60
+
+Bin 14: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 139
+Size: 61
+
+Bin 15: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 129
+Size: 71
+
+Bin 16: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 127
+Size: 42
+Size: 31
+
+Bin 17: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 126
+Size: 74
+
+Bin 18: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 124
+Size: 76
+
+Bin 19: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 120
+Size: 80
+
+Bin 20: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 116
+Size: 56
+Size: 28
+
+Bin 21: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 115
+Size: 85
+
+Bin 22: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 113
+Size: 54
+Size: 33
+
+Bin 23: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 112
+Size: 66
+Size: 22
+
+Bin 24: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 110
+Size: 56
+Size: 34
+
+Bin 25: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 108
+Size: 92
+
+Bin 26: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 106
+Size: 94
+
+Bin 27: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 105
+Size: 95
+
+Bin 28: 0 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 101
+Size: 99
+
+Bin 29: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 91
+Size: 76
+Size: 33
+
+Bin 30: 0 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 78
+Size: 78
+Size: 44
+
+Bin 31: 1 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 160
+Size: 39
+
+Bin 32: 1 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 155
+Size: 44
+
+Bin 33: 1 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 136
+Size: 63
+
+Bin 34: 1 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 120
+Size: 79
+
+Bin 35: 1 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 110
+Size: 89
+
+Bin 36: 2 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 147
+Size: 51
+
+Bin 37: 2 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 128
+Size: 70
+
+Bin 38: 3 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 150
+Size: 47
+
+Bin 39: 3 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 135
+Size: 62
+
+Bin 40: 4 of_free_capacity
+Amount_of_items: 3
+Items: 
+Size: 75
+Size: 61
+Size: 60
+
+Bin 41: 5 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 102
+Size: 93
+
+Bin 42: 8 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 126
+Size: 66
+
+Bin 43: 11 of_free_capacity
+Amount_of_items: 4
+Items: 
+Size: 57
+Size: 54
+Size: 43
+Size: 35
+
+Bin 44: 21 of_free_capacity
+Amount_of_items: 2
+Items: 
+Size: 100
+Size: 79
+
+Total_size: 8736
+Total_free_space: 64
+
